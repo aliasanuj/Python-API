@@ -1,13 +1,5 @@
 CSV files | CSV Operations :
 =============================
-
-https://stackabuse.com/reading-and-writing-csv-files-in-python/
-https://realpython.com/python-csv/
-https://www.pythonforbeginners.com/csv/using-the-csv-module-in-python
-http://beancoder.com/csv-files-using-python/
-https://stackabuse.com/reading-and-writing-csv-files-in-python/
-
-
 What is a CSV File? :
 =========================
 1. A CSV (Comma Separated Values) file is a file that uses a certain formatting for storing data. This file 
