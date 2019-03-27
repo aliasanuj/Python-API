@@ -1,11 +1,5 @@
 CSV files | CSV Operations :
 =============================
-https://www.programiz.com/python-programming/working-csv-files
-https://pythonspot.com/files-spreadsheets-csv/
-https://realpython.com/python-csv/
-https://stackabuse.com/reading-and-writing-csv-files-in-python/
-https://docs.python.org/2/library/csv.html
-
 Writing data into different types of CSV files
 Writing on Existing File
 Normal CSV File
